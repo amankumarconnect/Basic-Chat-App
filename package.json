@@ -1,0 +1,16 @@
+{
+  "name": "basic-chat-app",
+  "version": "1.0.0",
+  "description": "Using Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
